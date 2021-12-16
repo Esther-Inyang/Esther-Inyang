@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with React
 - 💬 Ask me about my other talents asides Programming
 - 📫 How to reach me: estherinyang07@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her/Queen
 - ⚡ Fun fact: I braid my own hair often with my eyes closed.
 
 
