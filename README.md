@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with React
 - 💬 Ask me about my other talents asides Programming
 - 📫 How to reach me: estherinyang07@gmail.com
-- 😄 Pronouns: A gentle lady please!
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I braid my own hair often with my eyes closed.
 -->
