@@ -1,12 +1,12 @@
 ### Hi there 👋, Welcome to my page!! I'm an aspiring full-stack developer! 
-- 🔭 I’m currently working on New Projects and learning what catches my interest!
+- 🔭 I’m currently working on New Projects and collaborating with teams to build cool stuff!
 - 🌱 I’m currently using JavaScript, React, TypeScript, Nextjs and Tailwind.
 - 👯 I’m looking to collaborate on any Projects and hackathons as a front-end developer
-- 🤔 I’m looking for help with React
-- 💬 Ask me about my other talents asides Programming
+- 🤔 I’m looking for help with TypeScript
+- 💬 Ask me about my other talents asides Programming 
 - 📫 How to reach me: estherinyang07@gmail.com
 - 😄 Pronouns: She/Her/Queen 
-- ⚡ Fun fact: I braid my own hair with my eyes closed.
+- ⚡ Fun fact: Styling my hair carefreely and rocking it, don't judge, lol
 
 
 
